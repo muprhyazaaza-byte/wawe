@@ -1,0 +1,63 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+list-style: none;
+text-decoration: none;
+}
+nav{
+    display: flex;
+justify-content: space-around;
+align-items: center;
+
+}
+nav ul{
+       display: flex;
+justify-content: space-around;
+align-items: center;
+gap: 15px;
+font-size: 24px;
+}
+.wawe{
+    background: url(Rectangle\ 75.png)center/cover,no-repeat;
+    height: 1080px;
+}
+.size{
+    color: #0D302C;
+    font-size: 200px;
+}
+p{
+    font-size: 24px;
+    color: #000000;
+}
+.center{
+   margin-left: 350px;
+    margin-top: 250px;
+}
+.word{
+    display: flex;
+    font-size: 14px;
+    gap: 70px;
+}
+.school{
+    color: #01353E;
+    text-align: center;
+}
+.mar {
+ margin: auto; 
+}
+.play{
+    display: flex;
+    flex-wrap: wrap;
+}
+h2{
+    text-align: center;
+    font-size: 48px;
+}
+.hov{
+    font-size: 24px;
+}
+.hov:hover{
+    color: #00B2A0;
+
+}
